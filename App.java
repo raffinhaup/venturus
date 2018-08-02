@@ -13,37 +13,6 @@ public class App {
 
 		List<Integer> listaDoce = new ArrayList<Integer>();
 
-		/**
-		 * Resultado 7
-		 */
-
-		// listaDoce.add(7);
-		// listaDoce.add(1);
-		// listaDoce.add(5);
-		// listaDoce.add(3);
-		// listaDoce.add(6);
-		// listaDoce.add(4);
-
-		/**
-		 * Resultado 22
-		 */
-
-		// listaDoce.add(3);
-		// listaDoce.add(2);
-		// listaDoce.add(7);
-		// listaDoce.add(3);
-		// listaDoce.add(5);
-		// listaDoce.add(7);
-		// listaDoce.add(10);
-		// listaDoce.add(8);
-		// listaDoce.add(6);
-		// listaDoce.add(5);
-		// listaDoce.add(15);
-		// listaDoce.add(1);
-
-		/**
-		 * Resultado 0
-		 */
 		listaDoce.add(7);
 		listaDoce.add(2);
 		listaDoce.add(1);
